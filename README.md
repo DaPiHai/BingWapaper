@@ -21,7 +21,6 @@
 ### 环境要求
 - Windows 10/11
 - Python 3.7+
-- PowerShell 5.1+
 
 ### 安装步骤
 1. 克隆仓库：
