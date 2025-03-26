@@ -106,4 +106,4 @@ cd BingWapaper
 ## 📬 问题反馈
 
 遇到问题请提交issue或联系：
-📧 Email: DaPiHai001@outlook..com  
+📧 Email: DaPiHai001@outlook.com  
