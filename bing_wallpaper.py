@@ -38,11 +38,7 @@ def download_wallpaper():
     for attempt in range(MAX_RETRY):
         try:
             # response = requests.get(WALLPAPER_URL, timeout=15)
-            response = requests.get(
-                WALLPAPER_URL,
-                timeout=15,
-                verify=r'E:\apps\anaconda3\Lib\site-packages\certifi\cacert.pem'
-            )
+            response = requests.get(WALLPAPER_URL, timeout=15, verify=False)
             response.raise_for_status()
 
             content_type = response.headers.get('Content-Type', '')
