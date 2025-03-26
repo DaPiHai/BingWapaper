@@ -26,49 +26,49 @@
 ### 安装步骤
 1. 克隆仓库：
 ```powershell
-git clone https://github.com/yourusername/bing-wallpaper-updater.git
-cd bing-wallpaper-updater
+git clone https://github.com/DaPiHai/BingWapaper.git
+cd BingWapaper
 ```
 
 2. Windows任务计划：
 
    1. 右键Windows图标，进入计算机管理
 
-      ![image-20250326154509238](E:\workspace\BingWallPaper\images\image-20250326154509238.png)
+      ![image-20250326154509238](images/image-20250326154509238.png)
 
    2. 在目标位置创建任务
 
-      ![image-20250326154924545](E:\workspace\BingWallPaper\images\image-20250326154924545.png)
+      ![image-20250326154924545](images/image-20250326154924545.png)
 
    3. 为任务起名和设置安全选项（安全选项根据自己需求设置）
 
-      ![image-20250326155133460](E:\workspace\BingWallPaper\images\image-20250326155133460.png)
+      ![image-20250326155133460](images/image-20250326155133460.png)
 
    4. 根据自己需求设置触发器
 
-      ![image-20250326155454066](E:\workspace\BingWallPaper\images\image-20250326155454066.png)
+      ![image-20250326155454066](images/image-20250326155454066.png)
 
-      ![image-20250326155541200](E:\workspace\BingWallPaper\images\image-20250326155541200.png)
+      ![image-20250326155541200](images/image-20250326155541200.png)
 
-      ![image-20250326155653215](E:\workspace\BingWallPaper\images\image-20250326155653215.png)
+      ![image-20250326155653215](images/image-20250326155653215.png)
 
       
 
    5. 新建操作
 
-      ![image-20250326155822041](E:\workspace\BingWallPaper\images\image-20250326155822041.png)
+      ![image-20250326155822041](images/image-20250326155822041.png)
 
-      ![image-20250326160141362](E:\workspace\BingWallPaper\images\image-20250326160141362.png)
+      ![image-20250326160141362](images/image-20250326160141362.png)
 
       
 
    6. 条件和设置
 
-      ![image-20250326160226587](E:\workspace\BingWallPaper\images\image-20250326160226587.png)
+      ![image-20250326160226587](images/image-20250326160226587.png)
 
       
 
-   ![image-20250326160256292](E:\workspace\BingWallPaper\images\image-20250326160256292.png)
+   ![image-20250326160256292](images/image-20250326160256292.png)
 
 
 
