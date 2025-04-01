@@ -124,7 +124,6 @@ def set_wallpaper(filepath):
 
 def main():
     sys.stdout = EnhancedLogger(LOG_DIR)
-    print("\n")  # 执行分隔空行
 
     current_date_file = SAVE_DIR / f"{datetime.now().strftime('%Y-%m-%d')}.jpg"
     if current_date_file.exists():
